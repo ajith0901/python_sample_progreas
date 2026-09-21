@@ -80,7 +80,7 @@ for element in range(11):
     print(element)  
    
 
-for elementin range (5,15):
+for element in range (5,15):
     print(element)    
 
 for element in range(10,25,5):

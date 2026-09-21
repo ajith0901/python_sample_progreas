@@ -85,7 +85,7 @@ if employe_name not in employees:
     print("access denied")
 else:
     print("access granded")  
-
+"""
 #identity operators checks whether memory location is same or not
 #key wods is or not
 valu1=35
@@ -96,7 +96,7 @@ print(valu1==valu2)
 list1=[35,34,33]
 list2=[35,34,33]
 print(list1 is list2)
-print(list1==list2) """
+print(list1==list2) 
 
 #bitwise operators
 a=5

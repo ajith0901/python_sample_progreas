@@ -168,7 +168,7 @@ print(student1-student2)
 print(student1)
 print(student2)
 print(student1.symmetric_difference(student2))
-"""
+
 #subset is superset is disjoint
 
 #frozenset = immutable
@@ -186,7 +186,7 @@ student={
 print(student)
 print(student["name"])
 
-info=dict(city="mtm",statr="tn")
+info=dict(city="mtm",state="tn")
 print(info)
 
 print(info.keys())
@@ -219,3 +219,4 @@ print(employee["emp1"]["age"])
 print(employee["emp2"])
 print(employee)
 
+"""

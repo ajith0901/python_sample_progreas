@@ -54,4 +54,5 @@ result=data4+data5
 print(result)
 """
 
-
+student_age=int(input("Enter your age: "))
+print("studen:",student_age)
